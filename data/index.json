@@ -8,5 +8,10 @@
     "id": "02_senyu_shoyu_kyoyu",
     "title": "民法：占有権・所有権・共有（180条〜264条）",
     "file": "02_senyu_shoyu_kyoyu.json"
+  },
+  {
+    "id": "03_tanpo_bukken",
+    "title": "民法：担保物権（295条〜398条の22）",
+    "file": "03_tanpo_bukken.json"
   }
 ]
