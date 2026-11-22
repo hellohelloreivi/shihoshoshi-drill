@@ -53,5 +53,15 @@
     "id": "11_futo_yoeki_kari_shintaku",
     "title": "不動産登記法：用益権・仮登記・信託・区分建物",
     "file": "11_futo_yoeki_kari_shintaku.json"
+  },
+  {
+    "id": "12_kaisha_setsuritsu_kabushiki",
+    "title": "会社法：設立・株式",
+    "file": "12_kaisha_setsuritsu_kabushiki.json"
+  },
+  {
+    "id": "13_kaisha_kikan",
+    "title": "会社法：機関（株主総会・取締役・監査役等）",
+    "file": "13_kaisha_kikan.json"
   }
 ]
