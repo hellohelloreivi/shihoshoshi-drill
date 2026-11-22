@@ -33,5 +33,15 @@
     "id": "07_shinzoku_sozoku",
     "title": "民法：親族・相続（725条〜1050条）",
     "file": "07_shinzoku_sozoku.json"
+  },
+  {
+    "id": "08_futo_soron",
+    "title": "不動産登記法：総論・登記手続",
+    "file": "08_futo_soron.json"
+  },
+  {
+    "id": "09_futo_shoyuken",
+    "title": "不動産登記法：所有権の登記",
+    "file": "09_futo_shoyuken.json"
   }
 ]
