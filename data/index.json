@@ -63,5 +63,15 @@
     "id": "13_kaisha_kikan",
     "title": "会社法：機関（株主総会・取締役・監査役等）",
     "file": "13_kaisha_kikan.json"
+  },
+  {
+    "id": "14_kaisha_keisan_saihen_shoho",
+    "title": "会社法・商法：計算・組織再編・持分会社・商法",
+    "file": "14_kaisha_keisan_saihen_shoho.json"
+  },
+  {
+    "id": "15_shoto_soron_yakuin",
+    "title": "商業登記法：総論・役員・機関変更",
+    "file": "15_shoto_soron_yakuin.json"
   }
 ]
