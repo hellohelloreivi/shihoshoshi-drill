@@ -43,5 +43,15 @@
     "id": "09_futo_shoyuken",
     "title": "不動産登記法：所有権の登記",
     "file": "09_futo_shoyuken.json"
+  },
+  {
+    "id": "10_futo_teito_neteito",
+    "title": "不動産登記法：抵当権・根抵当権の登記",
+    "file": "10_futo_teito_neteito.json"
+  },
+  {
+    "id": "11_futo_yoeki_kari_shintaku",
+    "title": "不動産登記法：用益権・仮登記・信託・区分建物",
+    "file": "11_futo_yoeki_kari_shintaku.json"
   }
 ]
