@@ -13,5 +13,15 @@
     "id": "03_tanpo_bukken",
     "title": "民法：担保物権（295条〜398条の22）",
     "file": "03_tanpo_bukken.json"
+  },
+  {
+    "id": "04_minpo_sosoku",
+    "title": "民法：民法総則（1条〜174条）",
+    "file": "04_minpo_sosoku.json"
+  },
+  {
+    "id": "05_saiken_soron",
+    "title": "民法：債権総論（399条〜520条の20）",
+    "file": "05_saiken_soron.json"
   }
 ]
