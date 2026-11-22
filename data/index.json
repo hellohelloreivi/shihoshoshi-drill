@@ -73,5 +73,15 @@
     "id": "15_shoto_soron_yakuin",
     "title": "商業登記法：総論・役員・機関変更",
     "file": "15_shoto_soron_yakuin.json"
+  },
+  {
+    "id": "16_shoto_kabushiki_shihon",
+    "title": "商業登記法：株式・新株予約権・資本金",
+    "file": "16_shoto_kabushiki_shihon.json"
+  },
+  {
+    "id": "17_shoto_saihen_kaisan_yugen",
+    "title": "商業登記法：本店移転・組織再編・解散清算・持分会社・特例有限会社",
+    "file": "17_shoto_saihen_kaisan_yugen.json"
   }
 ]
