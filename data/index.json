@@ -23,5 +23,15 @@
     "id": "05_saiken_soron",
     "title": "民法：債権総論（399条〜520条の20）",
     "file": "05_saiken_soron.json"
+  },
+  {
+    "id": "06_saiken_kakuron",
+    "title": "民法：債権各論（521条〜724条の2）",
+    "file": "06_saiken_kakuron.json"
+  },
+  {
+    "id": "07_shinzoku_sozoku",
+    "title": "民法：親族・相続（725条〜1050条）",
+    "file": "07_shinzoku_sozoku.json"
   }
 ]
